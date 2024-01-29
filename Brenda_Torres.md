@@ -1,8 +1,8 @@
 ﻿Tareas Programación Orientada a Objetos
 
-\-------------
+-------------
 
-###Tareas
+### Tareas
 
 
 - [x] Familiarizacion con repositorios remotos y locales
@@ -12,8 +12,8 @@
 - [x] Agregue el archivo al repositorio local
 - [ ] Agregue el archivo un nuevo texto que diga "Oh Gloria inmarcesible, oh júbilo inmortal"
 
-`	`- [ ] Agregue el archivo al stagging area git add ruta del archivo
+- [ ] Agregue el archivo al stagging area git add ruta del archivo
 
-`	`- [ ] Haga commit al archivo. Recuerde poner un comentario en el archivo. git commit -m "su mensaje"
+- [ ] Haga commit al archivo. Recuerde poner un comentario en el archivo. git commit -m "su mensaje"
 
-`	`- [ ] Agregue el archivo al stagging area git add ruta del archivo
+- [ ] Agregue el archivo al stagging area git add ruta del archivo
